@@ -1,0 +1,37 @@
+name: DMC2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - brotlipy=0.7.0=py310h1961e1f_1004
+  - bzip2=1.0.8=h1de35cc_0
+  - ca-certificates=2021.10.8=h033912b_0
+  - certifi=2021.10.8=py310h2ec42d9_2
+  - cffi=1.15.0=py310hc55c11b_1
+  - charset-normalizer=2.0.12=pyhd8ed1ab_0
+  - cryptography=36.0.2=py310hd6fa1ae_1
+  - docopt=0.6.2=py_1
+  - idna=3.3=pyhd8ed1ab_0
+  - libcxx=12.0.0=h2f01273_0
+  - libffi=3.3=hb1e8313_2
+  - ncurses=6.3=hca72f7f_2
+  - openssl=1.1.1n=h6c3fc93_0
+  - pip=21.2.4=py310hecd8cb5_0
+  - pipreqs=0.4.11=pyhd8ed1ab_0
+  - pycparser=2.21=pyhd8ed1ab_0
+  - pyopenssl=22.0.0=pyhd8ed1ab_0
+  - pysocks=1.7.1=py310h2ec42d9_5
+  - python=3.10.4=hdfd78df_0
+  - python_abi=3.10=2_cp310
+  - readline=8.1.2=hca72f7f_1
+  - requests=2.27.1=pyhd8ed1ab_0
+  - setuptools=61.2.0=py310hecd8cb5_0
+  - sqlite=3.38.2=h707629a_0
+  - tk=8.6.11=h7bc2e8c_0
+  - tzdata=2022a=hda174b7_0
+  - urllib3=1.26.9=pyhd8ed1ab_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - yarg=0.1.9=py_1
+  - zlib=1.2.12=h4dc903c_2
+prefix: /Users/ys/.conda/envs/DMC2022
